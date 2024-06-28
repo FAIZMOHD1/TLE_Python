@@ -74,7 +74,7 @@ Project(2023) update and modifications were done by:
 1. [Dev Shah](https://github.com/DevvvvvShah)
 2. [Shreyans Garg](https://github.com/ShreyansGarg)
 3. [Soumya Savarn](https://github.com/SoumyaSavarn)
-4. [Mohd. Faiz]((https://github.com/FAIZMOHD1))
+4. [Mohd Faiz](https://github.com/FAIZMOHD1)
 5. [Tanmay Mittal](https://github.com/Tanmay7404)
 6. [Ashutosh Bala]((https://github.com/ArtValor))
 7. [Arush Mathur]((https://github.com/arushmathur))
